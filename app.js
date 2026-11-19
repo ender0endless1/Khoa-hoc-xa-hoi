@@ -1,6 +1,6 @@
 /* ============ CẤU HÌNH ============ */
 const CONFIG = {
-  MOD_PASSCODE: "admin123",        // ĐỔI MÃ NÀY. Lưu ý: chỉ là bảo vệ cơ bản phía trình duyệt.
+  MOD_PASSCODE: "24682007",        // ĐỔI MÃ NÀY. Lưu ý: chỉ là bảo vệ cơ bản phía trình duyệt.
   MAX_FILE_MB: 8,
   ALLOWED_EXT: ["pdf", "doc", "docx"],
   BANNED_WORDS: ["địt","đm","đmm","vcl","vkl","cặc","lồn","cmm","đụ má","mẹ mày","thằng ngu","con chó","cá độ","casino","kiếm tiền nhanh","cho vay nặng lãi","bán dâm","đảo chính bạo lực","giết hết"],
